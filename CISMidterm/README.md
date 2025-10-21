@@ -3,7 +3,6 @@
 ### Description
 A SwiftUI app that lists **Frutiger-inspired themes** (e.g., Frutiger Aero, Dark Aero).  
 Each item shows an image and name; tapping it opens a detail view with more info.  
-Uses `Data.json` for data, `Subject.swift` for the model, and `Helper.swift` for decoding.
 
 ### How to Use
 1. Open in Xcode.  
