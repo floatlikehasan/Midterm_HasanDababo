@@ -1,0 +1,63 @@
+[
+  {
+    "id": "f1",
+    "name": "Frutiger Aero",
+    "description": "The classic early-2000s aesthetic defined by glossy blues, glass bubbles, and organic-meets-digital harmony. This is one of my most favorite aesthetics in the frutiger genre.",
+    "imageName": "frutiger_aero"
+  },
+  {
+    "id": "f2",
+    "name": "Frutiger Eco",
+    "description": "A nature-driven offshoot with green leaves, water droplets, and a focus on sustainability and serenity. Similar to frutiger aero, it is one of my most favorite aesthetics.",
+    "imageName": "frutiger_eco"
+  },
+  {
+    "id": "f3",
+    "name": "Frutiger Metro",
+    "description": "A sleeker, urban evolution of the Aero look—vibrant colors meet minimal geometry and streamlined UI forms.",
+    "imageName": "frutiger_metro"
+  },
+  {
+    "id": "f4",
+    "name": "Frutiger Aero Cybercore",
+    "description": "Futuristic and high-tech: glass UI fused with holographic light, data streams, and glowing interfaces.",
+    "imageName": "frutiger_aero_cybercore"
+  },
+  {
+    "id": "f5",
+    "name": "Dark Aero",
+    "description": "A moody, neon-blue reinterpretation of Frutiger Aero with dark gradients, metallic tones, and luminescent glow.",
+    "imageName": "dark_aero"
+  },
+  {
+    "id": "f6",
+    "name": "Frutiger Fruits",
+    "description": "A playful, candy-colored remix of Aero—juicy tones, glassy reflections, and cheerful 2000s optimism.",
+    "imageName": "frutiger_fruits"
+  },
+  {
+    "id": "f7",
+    "name": "Dorfic",
+    "description": "A minimal, Scandinavian-inspired visual language blending early web skeuomorphism with modern simplicity. Unfortunately, it is not among my most favored aesthetics, but I still value it nonetheless!",
+    "imageName": "dorfic"
+  },
+  {
+    "id": "f8",
+    "name": "Technozen",
+    "description": "Balances futuristic tech motifs with zen-like calm—soft lighting, gradients, and tranquil digital balance.",
+    "imageName": "technozen"
+  },
+  {
+    "id": "f9",
+    "name": "Cyber Glacier",
+    "description": "Cool blue-white gradients, ice-like translucency, and subtle light flares evoke a digital frozen world. This is up there with Frutiger Aero and Frutiger Eco as one of my most favorite aesthetics.",
+    "imageName": "cyber_glacier"
+  },
+  {
+    "id": "f10",
+    "name": "Aero Futurism",
+    "description": "A forward-looking evolution of Aero—sleek, utopian, and infused with light, glass, and ambient motion.",
+    "imageName": "aero_futurism"
+  }
+]
+
