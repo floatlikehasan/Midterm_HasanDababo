@@ -1,3 +1,7 @@
+//  Midterm Project
+//    Hasan Dababo
+//    2025-10-20
+
 import SwiftUI
 
 struct DetailView: View {
